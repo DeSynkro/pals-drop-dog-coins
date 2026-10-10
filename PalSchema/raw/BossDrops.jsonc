@@ -1,0 +1,1300 @@
+{
+    "DT_PalDropItem": {
+        "BOSS_Alpaca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_AmaterasuWolf000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BadCatgirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Baphomet000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Baphomet_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Bastet000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Bastet_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BeardedDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BerryGoat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BirdDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BirdDragon_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlackCentaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlackFurDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlackGriffon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlackMetalDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlueberryFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlueDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BluePlatypus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Boar000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BrownRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CaptainPenguin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Carbunclo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CatBat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CatMage000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CatMage_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CatVampire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ChickenPal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ColorfulBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CowPal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CuteButterfly000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CuteFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CuteMole000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DarkCrow000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DarkScorpion000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DarkScorpion_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Deer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Deer_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DreamDemon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Eagle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ElecCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ElecLion000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ElecPanda000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FairyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FairyDragon_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FengyunDeeper000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FireKirin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FireKirin_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlameBambi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlameBuffalo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlowerDinosaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlowerDinosaur_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlowerDoll000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlowerRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlyingManta000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FoxMage000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FoxMage_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Ganesha000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Garm000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GhostBeast000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GoldenHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Gorilla000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Gorilla_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrassMammoth000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrassMammoth_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrassPanda000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrassPanda_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrassRabbitMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_HadesBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_HadesBird_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_HawkBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Hedgehog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Hedgehog_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_HerculesBeetle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_HerculesBeetle_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Horus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceDeer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceHorse_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_JetDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Kelpie000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Kelpie_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KingAlpaca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KingAlpaca_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KingBahamut000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KingBahamut_Dragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Kirin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Kitsunebi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LavaGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LazyCatfish000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LazyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LazyDragon_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LilyQueen000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LilyQueen_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LittleBriarRose000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LizardMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LizardMan_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Manticore000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Manticore_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Monkey000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MopBaby000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MopKing000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Mutant000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NaughtyCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NegativeKoala000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NegativeOctopus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NightFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Penguin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PinkCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PinkLizard000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PinkRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PlantSlime000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PlantSlime_Flower000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_QueenBee000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_RaijinDaughter000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_RedArmorBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_RobinHood000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_RobinHood_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Ronin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Ronin_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SaintCentaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SakuraSaurus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SakuraSaurus_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Serpent000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Serpent_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SharkKid000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SharkKid_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SheepBall000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SkyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SkyDragon_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SoldierBee000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Suzaku000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Suzaku_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SweetsSheep000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_TentacleTurtle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ThunderBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ThunderDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ThunderDragonMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Umihebi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Umihebi_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_VioletFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_VolcanicMonster000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_VolcanicMonster_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WeaselDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WeaselDragon_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Werewolf000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteMoth000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteTiger000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WindChimes000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WindChimes_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WizardOwl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WoolFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Yeti000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Yeti_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MoonQueen000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KendoFrog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LeafPrincess000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MushroomDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MushroomDragon_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SmallArmadillo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FeatherOstrich000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_ScorpionMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WingGolem000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CandleGhost000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GuardianDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SifuDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MimicDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DarkAlien000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteAlienDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_DarkMechaDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GhostRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NightBlueHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteShieldDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlackPuppy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteDeer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_MysteryMask000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GrimGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PurpleSpider000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlueThunderHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_OctopusGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceNarwhal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_JellyfishFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BerryGoat_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Kitsunebi_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_RaijinDaughter_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SnowTigerBeastman000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Werewolf_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_WhiteTiger_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Horus_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FengyunDeeper_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_AmaterasuWolf_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PinkRabbit_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GhostAnglerfish000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceWitch000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LeafMomonga000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceCrocodile000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_StuffedShark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceSeal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Plesiosaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_TropicalOstrich000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_SnowPeafowl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_JellyfishGhost000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_PoseidonOrca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_NegativeOctopus_Neutral000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_Penguin_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_CaptainPenguin_Black000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_FlyingManta_Thunder000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BluePlatypus_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_LazyCatfish_Gold000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_TentacleTurtle_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_KendoFrog_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_BlueDragon_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_IceNarwhal_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_GhostAnglerfish_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_StuffedShark_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "BOSS_YakushimaBoss001000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        }
+    }
+}

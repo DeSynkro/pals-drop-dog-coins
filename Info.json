@@ -1,0 +1,26 @@
+{
+  "ModName": "Pals Drop Dog Coins [Palworld 1.0.5]",
+  "PackageName": "PalsDropDogCoinsUpdated",
+  "Thumbnail": "thumbnail.png",
+  "Version": "1.0.0",
+  "DebugMode": false,
+  "MinRevision": 82182,
+  "Author": "DeSynkro",
+  "Dependencies": [
+    "PalSchema",
+    "UE4SSExperimentalPW"
+  ],
+  "Tags": [
+    "PalSchema",
+    "UE4SS",
+    "Gameplay"
+  ],
+  "InstallRule": [
+    {
+      "Type": "PalSchema",
+      "Targets": [
+        "./PalSchema/"
+      ]
+    }
+  ]
+}

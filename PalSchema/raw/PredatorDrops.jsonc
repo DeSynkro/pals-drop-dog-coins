@@ -1,0 +1,202 @@
+{
+    "DT_PalDropItem": {
+        "PREDATOR_AmaterasuWolf000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_BirdDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_DrillGame000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_FairyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_FeatherOstrich000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_FlowerDinosaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Garm000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_GhostBeast000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_GoldenHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Gorilla000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_GrassPanda000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_GrimGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Horus_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_LazyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Manticore_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_MushroomDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_MysteryMask000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_NightBlueHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_PinkLizard000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_PurpleSpider000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_RedArmorBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_ScorpionMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_SifuDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_ThunderDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Umihebi_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_VolcanicMonster_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Werewolf_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_WhiteTiger_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Yeti000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_HadesBird_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Ronin_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_CandleGhost000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        "PREDATOR_Baphomet_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        }
+    }
+}
