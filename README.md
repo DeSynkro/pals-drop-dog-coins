@@ -23,6 +23,9 @@
   If KoZ requests me to remove this mod, I will oblige by his wishes.
 </p>
 
+<p align="center">
+  Available for Subscribing on the Steam Workshop: [Pals Drop Dog Coins [Palworld 1.0.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3816899969)
+</p>
 
 <p align="center">
   Made with love for the community! Thank you to everyone who was
@@ -42,7 +45,7 @@ values.
 
 ## Install
 
-Subscribe on Steam Workshop, then enable it in-game under
+Subscribe on Steam Workshop [Pals Drop Dog Coins [Palworld 1.0.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3816899969), then enable it in-game under
 **Options → Mod Management**.
 
 ## What it contains
