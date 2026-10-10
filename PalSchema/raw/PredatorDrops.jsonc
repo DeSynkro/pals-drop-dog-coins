@@ -197,6 +197,73 @@
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
+        },
+
+        // ---------------------------------------------------------------------------
+        // Added in this update
+        // ---------------------------------------------------------------------------
+        // KoZ's original rows are all above this line and are untouched. The rows below
+        // cover the Pals that arrived with Palworld 1.0 on 2026-07-10, after his last
+        // update on 2025-12-18.
+        //
+        // Written to slot 10, at the same rate as the rows above. No Pal here uses more
+        // than 3 of its 10 drop slots, so nothing that already drops is overwritten.
+        //
+        // Hartalis (LegendDeer) had no drop row at all in the base game. That row is
+        // created rather than edited, so Hartalis now drops DogCoin instead of nothing.
+        //
+        // Display names sit in the comments. The names the game actually looks up are
+        // the row keys.
+        // ---------------------------------------------------------------------------
+
+        // Elgrove Cryst
+        "PREDATOR_GrassMinotaur_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Solenne
+        "PREDATOR_MonochromeQueen000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Gildra
+        "PREDATOR_MummyPal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Leafan
+        "PREDATOR_PandaGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Tropicaw
+        "PREDATOR_RedFlowerBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Venusa
+        "PREDATOR_SnakeGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
+        },
+        // Moldron
+        "PREDATOR_VolcanoDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 100.0,
+            "min10": 1,
+            "Max10": 3
         }
     }
 }
