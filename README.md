@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  Available for Subscribing on the Steam Workshop: [Pals Drop Dog Coins [Palworld 1.0.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3816899969)
+  Available for Subscribing on the Steam Workshop: <a href=https://steamcommunity.com/sharedfiles/filedetails/?id=3816899969>Pals Drop Dog Coins</a>
 </p>
 
 <p align="center">
