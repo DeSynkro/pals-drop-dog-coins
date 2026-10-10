@@ -68,5 +68,7 @@ Each row writes DogCoin into drop **Slot 10**:
 Slot 10 was chosen deliberately. No patched row uses more than **3** of its 10
 available slots, so nothing that already drops is overwritten.
 
+**Any other mod that modifies Slot 10 for a Pal's Item Drops will likely cause issues, please be aware**
+
 Rows added by this mod have a `// Display Name (InternalID)` comment so you
 can identify any row without leaving the file.

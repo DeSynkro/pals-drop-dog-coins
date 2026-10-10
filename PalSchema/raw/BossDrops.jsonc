@@ -1,1295 +1,1511 @@
 {
     "DT_PalDropItem": {
+        // Melpaca
         "BOSS_Alpaca000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kitsun
         "BOSS_AmaterasuWolf000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nyafia
         "BOSS_BadCatgirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram
         "BOSS_Baphomet000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram Noct
         "BOSS_Baphomet_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mau
         "BOSS_Bastet000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mau Cryst
         "BOSS_Bastet_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // BeardedDragon
         "BOSS_BeardedDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Caprity
         "BOSS_BerryGoat000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vanwyrm
         "BOSS_BirdDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vanwyrm Cryst
         "BOSS_BirdDragon_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Necromus
         "BOSS_BlackCentaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dragostrophe
         "BOSS_BlackFurDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shadowbeak
         "BOSS_BlackGriffon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Astegon
         "BOSS_BlackMetalDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Prunelia
         "BOSS_BlueberryFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurobe
         "BOSS_BlueDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuack
         "BOSS_BluePlatypus000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rushoar
         "BOSS_Boar000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lapiron
         "BOSS_BrownRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Penking
         "BOSS_CaptainPenguin000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lifmunk
         "BOSS_Carbunclo000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tombat
         "BOSS_CatBat000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Katress
         "BOSS_CatMage000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Katress Ignis
         "BOSS_CatMage_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Felbat
         "BOSS_CatVampire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chikipi
         "BOSS_ChickenPal000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tocotoco
         "BOSS_ColorfulBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mozzarina
         "BOSS_CowPal000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cinnamoth
         "BOSS_CuteButterfly000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vixy
         "BOSS_CuteFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuddler
         "BOSS_CuteMole000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cawgnito
         "BOSS_DarkCrow000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Menasting
         "BOSS_DarkScorpion000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Menasting Terra
         "BOSS_DarkScorpion_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eikthyrdeer
         "BOSS_Deer000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eikthyrdeer Terra
         "BOSS_Deer_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Daedream
         "BOSS_DreamDemon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Galeclaw
         "BOSS_Eagle000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sparkit
         "BOSS_ElecCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Boltmane
         "BOSS_ElecLion000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Grizzbolt
         "BOSS_ElecPanda000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elphidran
         "BOSS_FairyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elphidran Aqua
         "BOSS_FairyDragon_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fenglope
         "BOSS_FengyunDeeper000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pyrin
         "BOSS_FireKirin000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pyrin Noct
         "BOSS_FireKirin_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rooby
         "BOSS_FlameBambi000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Arsox
         "BOSS_FlameBuffalo000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dinossom
         "BOSS_FlowerDinosaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dinossom Lux
         "BOSS_FlowerDinosaur_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Petallia
         "BOSS_FlowerDoll000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Flopie
         "BOSS_FlowerRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celaray
         "BOSS_FlyingManta000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wixen
         "BOSS_FoxMage000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wixen Noct
         "BOSS_FoxMage_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Teafant
         "BOSS_Ganesha000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Direhowl
         "BOSS_Garm000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Maraith
         "BOSS_GhostBeast000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gildane
         "BOSS_GoldenHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gorirat
         "BOSS_Gorilla000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gorirat Terra
         "BOSS_Gorilla_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mammorest
         "BOSS_GrassMammoth000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mammorest Cryst
         "BOSS_GrassMammoth_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mossanda
         "BOSS_GrassPanda000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mossanda Lux
         "BOSS_GrassPanda_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Verdash
         "BOSS_GrassRabbitMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr
         "BOSS_HadesBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr Lux
         "BOSS_HadesBird_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nitewing
         "BOSS_HawkBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jolthog
         "BOSS_Hedgehog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jolthog Cryst
         "BOSS_Hedgehog_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Warsect
         "BOSS_HerculesBeetle000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Warsect Terra
         "BOSS_HerculesBeetle_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris
         "BOSS_Horus000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reindrix
         "BOSS_IceDeer000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxcicle
         "BOSS_IceFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostallion
         "BOSS_IceHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostallion Noct
         "BOSS_IceHorse_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jetragon
         "BOSS_JetDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kelpsea
         "BOSS_Kelpie000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kelpsea Ignis
         "BOSS_Kelpie_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kingpaca
         "BOSS_KingAlpaca000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kingpaca Cryst
         "BOSS_KingAlpaca_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazamut
         "BOSS_KingBahamut000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazamut Ryu
         "BOSS_KingBahamut_Dragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Univolt
         "BOSS_Kirin000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxparks
         "BOSS_Kitsunebi000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Flambelle
         "BOSS_LavaGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dumud
         "BOSS_LazyCatfish000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Relaxaurus
         "BOSS_LazyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Relaxaurus Lux
         "BOSS_LazyDragon_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lyleen
         "BOSS_LilyQueen000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lyleen Noct
         "BOSS_LilyQueen_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bristla
         "BOSS_LittleBriarRose000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Leezpunk
         "BOSS_LizardMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Leezpunk Ignis
         "BOSS_LizardMan_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazehowl
         "BOSS_Manticore000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazehowl Noct
         "BOSS_Manticore_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tanzee
         "BOSS_Monkey000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Swee
         "BOSS_MopBaby000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sweepa
         "BOSS_MopKing000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lunaris
         "BOSS_Mutant000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Grintale
         "BOSS_NaughtyCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Depresso
         "BOSS_NegativeKoala000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Killamari
         "BOSS_NegativeOctopus000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nox
         "BOSS_NightFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pengullet
         "BOSS_Penguin000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cattiva
         "BOSS_PinkCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lovander
         "BOSS_PinkLizard000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ribbuny
         "BOSS_PinkRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gumoss
         "BOSS_PlantSlime000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gumoss
         "BOSS_PlantSlime_Flower000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elizabee
         "BOSS_QueenBee000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazzi
         "BOSS_RaijinDaughter000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ragnahawk
         "BOSS_RedArmorBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Robinquill
         "BOSS_RobinHood000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Robinquill Terra
         "BOSS_RobinHood_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bushi
         "BOSS_Ronin000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bushi Noct
         "BOSS_Ronin_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Paladius
         "BOSS_SaintCentaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Broncherry
         "BOSS_SakuraSaurus000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Broncherry Aqua
         "BOSS_SakuraSaurus_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Surfent
         "BOSS_Serpent000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Surfent Terra
         "BOSS_Serpent_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gobfin
         "BOSS_SharkKid000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gobfin Ignis
         "BOSS_SharkKid_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lamball
         "BOSS_SheepBall000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Quivern
         "BOSS_SkyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Quivern Botan
         "BOSS_SkyDragon_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Beegarde
         "BOSS_SoldierBee000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Suzaku
         "BOSS_Suzaku000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Suzaku Aqua
         "BOSS_Suzaku_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Woolipop
         "BOSS_SweetsSheep000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Turtacle
         "BOSS_TentacleTurtle000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Beakon
         "BOSS_ThunderBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rayhound
         "BOSS_ThunderDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Orserk
         "BOSS_ThunderDragonMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jormuntide
         "BOSS_Umihebi000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jormuntide Ignis
         "BOSS_Umihebi_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vaelet
         "BOSS_VioletFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reptyro
         "BOSS_VolcanicMonster000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reptyro Cryst
         "BOSS_VolcanicMonster_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chillet
         "BOSS_WeaselDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chillet Ignis
         "BOSS_WeaselDragon_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Loupmoon
         "BOSS_Werewolf000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sibelyx
         "BOSS_WhiteMoth000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cryolinx
         "BOSS_WhiteTiger000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hangyu
         "BOSS_WindChimes000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hangyu Cryst
         "BOSS_WindChimes_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hoocrates
         "BOSS_WizardOwl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cremis
         "BOSS_WoolFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wumpo
         "BOSS_Yeti000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wumpo Botan
         "BOSS_Yeti_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Selyne
         "BOSS_MoonQueen000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Croajiro
         "BOSS_KendoFrog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lullu
         "BOSS_LeafPrincess000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shroomer
         "BOSS_MushroomDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shroomer Noct
         "BOSS_MushroomDragon_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kikit
         "BOSS_SmallArmadillo000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazemu
         "BOSS_FeatherOstrich000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Prixter
         "BOSS_ScorpionMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Knocklem
         "BOSS_WingGolem000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sootseer
         "BOSS_CandleGhost000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Yakumo
         "BOSS_GuardianDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dogen
         "BOSS_SifuDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mimog
         "BOSS_MimicDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenovader
         "BOSS_DarkAlien000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenogard
         "BOSS_WhiteAlienDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenolord
         "BOSS_DarkMechaDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nitemary
         "BOSS_GhostRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Starryon
         "BOSS_NightBlueHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Silvegis
         "BOSS_WhiteShieldDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Smokie
         "BOSS_BlackPuppy000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celesdir
         "BOSS_WhiteDeer000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Omascul
         "BOSS_MysteryMask000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Splatterina
         "BOSS_GrimGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tarantriss
         "BOSS_PurpleSpider000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurmane
         "BOSS_BlueThunderHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gloopie
         "BOSS_OctopusGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Whalaska
         "BOSS_IceNarwhal000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jelliette
         "BOSS_JellyfishFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Caprity Noct
         "BOSS_BerryGoat_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxparks Cryst
         "BOSS_Kitsunebi_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazzi Noct
         "BOSS_RaijinDaughter_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bastigor
         "BOSS_SnowTigerBeastman000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Loupmoon Cryst
         "BOSS_Werewolf_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cryolinx Terra
         "BOSS_WhiteTiger_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris Aqua
         "BOSS_Horus_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fenglope Lux
         "BOSS_FengyunDeeper_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kitsun Noct
         "BOSS_AmaterasuWolf_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ribbuny Botan
         "BOSS_PinkRabbit_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ghangler
         "BOSS_GhostAnglerfish000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Icelyn
         "BOSS_IceWitch000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Herbil
         "BOSS_LeafMomonga000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Munchill
         "BOSS_IceCrocodile000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Finsider
         "BOSS_StuffedShark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Polapup
         "BOSS_IceSeal000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Braloha
         "BOSS_Plesiosaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Palumba
         "BOSS_TropicalOstrich000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostplume
         "BOSS_SnowPeafowl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jellroy
         "BOSS_JellyfishGhost000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Neptilius
         "BOSS_PoseidonOrca000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Killamari Primo
         "BOSS_NegativeOctopus_Neutral000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pengullet Lux
         "BOSS_Penguin_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Penking Lux
         "BOSS_CaptainPenguin_Black000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celaray Lux
         "BOSS_FlyingManta_Thunder000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuack Ignis
         "BOSS_BluePlatypus_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dumud Gild
         "BOSS_LazyCatfish_Gold000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Turtacle Terra
         "BOSS_TentacleTurtle_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Croajiro Noct
         "BOSS_KendoFrog_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurobe Cryst
         "BOSS_BlueDragon_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Whalaska Ignis
         "BOSS_IceNarwhal_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ghangler Ignis
         "BOSS_GhostAnglerfish_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Finsider Ignis
         "BOSS_StuffedShark_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eye of Cthulhu
         "BOSS_YakushimaBoss001000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
@@ -1300,7 +1516,7 @@
         // ---------------------------------------------------------------------------
         // Added in this update
         // ---------------------------------------------------------------------------
-        // KoZ's original rows are all above this line and are untouched. The rows below
+        // KoZ's original rows are all above this line. The rows below
         // cover the Pals that arrived with Palworld 1.0 on 2026-07-10, after his last
         // update on 2025-12-18.
         //

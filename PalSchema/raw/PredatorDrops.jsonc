@@ -1,197 +1,230 @@
 {
     "DT_PalDropItem": {
+        // Kitsun
         "PREDATOR_AmaterasuWolf000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vanwyrm
         "PREDATOR_BirdDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Digtoise
         "PREDATOR_DrillGame000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elphidran
         "PREDATOR_FairyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazemu
         "PREDATOR_FeatherOstrich000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dinossom
         "PREDATOR_FlowerDinosaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Direhowl
         "PREDATOR_Garm000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Maraith
         "PREDATOR_GhostBeast000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gildane
         "PREDATOR_GoldenHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gorirat
         "PREDATOR_Gorilla000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mossanda
         "PREDATOR_GrassPanda000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Splatterina
         "PREDATOR_GrimGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris Aqua
         "PREDATOR_Horus_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Relaxaurus
         "PREDATOR_LazyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazehowl Noct
         "PREDATOR_Manticore_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shroomer
         "PREDATOR_MushroomDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Omascul
         "PREDATOR_MysteryMask000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Starryon
         "PREDATOR_NightBlueHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lovander
         "PREDATOR_PinkLizard000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tarantriss
         "PREDATOR_PurpleSpider000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ragnahawk
         "PREDATOR_RedArmorBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Prixter
         "PREDATOR_ScorpionMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dogen
         "PREDATOR_SifuDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rayhound
         "PREDATOR_ThunderDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jormuntide Ignis
         "PREDATOR_Umihebi_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reptyro Cryst
         "PREDATOR_VolcanicMonster_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Loupmoon Cryst
         "PREDATOR_Werewolf_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cryolinx Terra
         "PREDATOR_WhiteTiger_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wumpo
         "PREDATOR_Yeti000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr Lux
         "PREDATOR_HadesBird_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bushi Noct
         "PREDATOR_Ronin_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sootseer
         "PREDATOR_CandleGhost000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram Noct
         "PREDATOR_Baphomet_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 100.0,
@@ -202,7 +235,7 @@
         // ---------------------------------------------------------------------------
         // Added in this update
         // ---------------------------------------------------------------------------
-        // KoZ's original rows are all above this line and are untouched. The rows below
+        // KoZ's original rows are all above this line. The rows below
         // cover the Pals that arrived with Palworld 1.0 on 2026-07-10, after his last
         // update on 2025-12-18.
         //

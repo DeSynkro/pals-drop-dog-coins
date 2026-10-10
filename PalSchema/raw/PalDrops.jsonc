@@ -1,1433 +1,1672 @@
 {
     "DT_PalDropItem": {
+        // Nyafia
         "BadCatgirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Prunelia
         "BlueberryFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lapiron
         "BrownRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Boltmane
         "ElecLion000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gildane
         "GoldenHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Turtacle
         "TentacleTurtle000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Turtacle Terra
         "TentacleTurtle_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // BeardedDragon
         "BeardedDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Anubis
         "Anubis000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram
         "Baphomet000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram Noct
         "Baphomet_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mau
         "Bastet000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mau Cryst
         "Bastet_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rushoar
         "Boar000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lifmunk
         "Carbunclo000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tocotoco
         "ColorfulBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eikthyrdeer
         "Deer000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eikthyrdeer Terra
         "Deer_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Galeclaw
         "Eagle000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Grizzbolt
         "ElecPanda000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Teafant
         "Ganesha000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Direhowl
         "Garm000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gorirat
         "Gorilla000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gorirat Terra
         "Gorilla_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jolthog
         "Hedgehog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jolthog Cryst
         "Hedgehog_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Univolt
         "Kirin000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxparks
         "Kitsunebi000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bristla
         "LittleBriarRose000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lunaris
         "Mutant000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pengullet
         "Penguin000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pengullet Lux
         "Penguin_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazzi
         "RaijinDaughter000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gobfin
         "SharkKid000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gobfin Ignis
         "SharkKid_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lamball
         "SheepBall000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jormuntide
         "Umihebi000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jormuntide Ignis
         "Umihebi_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Loupmoon
         "Werewolf000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hangyu
         "WindChimes000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hangyu Cryst
         "WindChimes_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Suzaku
         "Suzaku000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Suzaku Aqua
         "Suzaku_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pyrin
         "FireKirin000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Pyrin Noct
         "FireKirin_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elphidran
         "FairyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elphidran Aqua
         "FairyDragon_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Woolipop
         "SweetsSheep000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cryolinx
         "WhiteTiger000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Melpaca
         "Alpaca000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Surfent
         "Serpent000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Surfent Terra
         "Serpent_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cawgnito
         "DarkCrow000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurobe
         "BlueDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurobe Cryst
         "BlueDragon_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cattiva
         "PinkCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Depresso
         "NegativeKoala000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fenglope
         "FengyunDeeper000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reptyro
         "VolcanicMonster000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reptyro Cryst
         "VolcanicMonster_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Maraith
         "GhostBeast000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Robinquill
         "RobinHood000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Robinquill Terra
         "RobinHood_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Relaxaurus
         "LazyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Relaxaurus Lux
         "LazyDragon_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kitsun
         "AmaterasuWolf000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Leezpunk
         "LizardMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Leezpunk Ignis
         "LizardMan_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuack
         "BluePlatypus000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuack Ignis
         "BluePlatypus_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dragostrophe
         "BlackFurDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vanwyrm
         "BirdDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vanwyrm Cryst
         "BirdDragon_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chikipi
         "ChickenPal000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dinossom
         "FlowerDinosaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dinossom Lux
         "FlowerDinosaur_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sparkit
         "ElecCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostallion
         "IceHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostallion Noct
         "IceHorse_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mammorest
         "GrassMammoth000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mammorest Cryst
         "GrassMammoth_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Felbat
         "CatVampire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Broncherry
         "SakuraSaurus000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Broncherry Aqua
         "SakuraSaurus_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris
         "Horus000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazamut
         "KingBahamut000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazamut Ryu
         "KingBahamut_Dragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Caprity
         "BerryGoat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Reindrix
         "IceDeer000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shadowbeak
         "BlackGriffon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sibelyx
         "WhiteMoth000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vixy
         "CuteFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wixen
         "FoxMage000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wixen Noct
         "FoxMage_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lovander
         "PinkLizard000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Hoocrates
         "WizardOwl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kelpsea
         "Kelpie000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kelpsea Ignis
         "Kelpie_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Killamari
         "NegativeOctopus000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Killamari Primo
         "NegativeOctopus_Neutral000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mozzarina
         "CowPal000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wumpo
         "Yeti000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Wumpo Botan
         "Yeti_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Vaelet
         "VioletFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nitewing
         "HawkBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Flopie
         "FlowerRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lyleen
         "LilyQueen000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lyleen Noct
         "LilyQueen_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Elizabee
         "QueenBee000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Beegarde
         "SoldierBee000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tombat
         "CatBat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mossanda
         "GrassPanda000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mossanda Lux
         "GrassPanda_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Arsox
         "FlameBuffalo000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rayhound
         "ThunderDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fuddler
         "CuteMole000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Astegon
         "BlackMetalDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Verdash
         "GrassRabbitMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxcicle
         "IceFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jetragon
         "JetDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Daedream
         "DreamDemon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tanzee
         "Monkey000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazehowl
         "Manticore000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blazehowl Noct
         "Manticore_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kingpaca
         "KingAlpaca000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kingpaca Cryst
         "KingAlpaca_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gumoss
         "PlantSlime000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gumoss
         "PlantSlime_Flower000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Swee
         "MopBaby000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sweepa
         "MopKing000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Katress
         "CatMage000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Katress Ignis
         "CatMage_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ribbuny
         "PinkRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Beakon
         "ThunderBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Warsect
         "HerculesBeetle000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Warsect Terra
         "HerculesBeetle_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Paladius
         "SaintCentaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nox
         "NightFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Penking
         "CaptainPenguin000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Penking Lux
         "CaptainPenguin_Black000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chillet
         "WeaselDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Chillet Ignis
         "WeaselDragon_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Quivern
         "SkyDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Quivern Botan
         "SkyDragon_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr
         "HadesBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr Lux
         "HadesBird_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ragnahawk
         "RedArmorBird000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bushi
         "Ronin000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bushi Noct
         "Ronin_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celaray
         "FlyingManta000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celaray Lux
         "FlyingManta_Thunder000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Necromus
         "BlackCentaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Petallia
         "FlowerDoll000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Grintale
         "NaughtyCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cinnamoth
         "CuteButterfly000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Menasting
         "DarkScorpion000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Menasting Terra
         "DarkScorpion_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Orserk
         "ThunderDragonMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cremis
         "WoolFox000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dumud
         "LazyCatfish000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dumud Gild
         "LazyCatfish_Gold000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Flambelle
         "LavaGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rooby
         "FlameBambi000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Selyne
         "MoonQueen000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Croajiro
         "KendoFrog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Croajiro Noct
         "KendoFrog_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lullu
         "LeafPrincess000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shroomer
         "MushroomDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Shroomer Noct
         "MushroomDragon_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kikit
         "SmallArmadillo000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Sootseer
         "CandleGhost000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Prixter
         "ScorpionMan000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Knocklem
         "WingGolem000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Yakumo
         "GuardianDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dogen
         "SifuDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazemu
         "FeatherOstrich000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Mimog
         "MimicDog000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenovader
         "DarkAlien000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenogard
         "WhiteAlienDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenolord
         "DarkMechaDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Nitemary
         "GhostRabbit000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Starryon
         "NightBlueHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Silvegis
         "WhiteShieldDragon000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Smokie
         "BlackPuppy000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Celesdir
         "WhiteDeer000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Omascul
         "MysteryMask000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Splatterina
         "GrimGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Tarantriss
         "PurpleSpider000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Azurmane
         "BlueThunderHorse000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Gloopie
         "OctopusGirl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Whalaska
         "IceNarwhal000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Whalaska Ignis
         "IceNarwhal_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jelliette
         "JellyfishFairy000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Foxparks Cryst
         "Kitsunebi_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Caprity Noct
         "BerryGoat_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ribbuny Botan
         "PinkRabbit_Grass000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Loupmoon Cryst
         "Werewolf_Ice000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Kitsun Noct
         "AmaterasuWolf_Dark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Dazzi Noct
         "RaijinDaughter_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cryolinx Terra
         "WhiteTiger_Ground000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Fenglope Lux
         "FengyunDeeper_Electric000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris Aqua
         "Horus_Water000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Bastigor
         "SnowTigerBeastman000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Knocklem
         "WingGolem_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Xenovader
         "DarkAlien_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Faleris
         "Horus_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Incineram Noct
         "Baphomet_Dark_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Helzephyr
         "HadesBird_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Leezpunk
         "LizardMan_Oilrig000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ghangler
         "GhostAnglerfish000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Ghangler Ignis
         "GhostAnglerfish_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Icelyn
         "IceWitch000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Herbil
         "LeafMomonga000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Munchill
         "IceCrocodile000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Finsider
         "StuffedShark000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Finsider Ignis
         "StuffedShark_Fire000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Polapup
         "IceSeal000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Braloha
         "Plesiosaur000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Palumba
         "TropicalOstrich000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Frostplume
         "SnowPeafowl000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Jellroy
         "JellyfishGhost000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Neptilius
         "PoseidonOrca000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Green Slime
         "YakushimaMonster001000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Blue Slime
         "YakushimaMonster001_Blue000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Red Slime
         "YakushimaMonster001_Red000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Purple Slime
         "YakushimaMonster001_Purple000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Illuminant Slime
         "YakushimaMonster001_Pink000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Rainbow Slime
         "YakushimaMonster001_Rainbow000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Enchanted Sword
         "YakushimaMonster002000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cave Bat
         "YakushimaMonster003000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Illuminant Bat
         "YakushimaMonster003_Purple000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Eye of Cthulhu
         "YakushimaBoss001000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Demon Eye
         "YakushimaBoss001_Small000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // True Eye of Cthulhu
         "RAID_YakushimaBoss001_Green000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Moon Lord
         "RAID_YakushimaBoss002000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Moon Lord
         "RAID_YakushimaBoss002_Hand_Left000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Moon Lord
         "RAID_YakushimaBoss002_Hand_Right000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Lamball
         "Quest_Farmer03_SheepBall000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
             "min10": 1,
             "Max10": 3
         },
+        // Cattiva
         "Quest_Farmer03_PinkCat000": {
             "ItemId10": "DogCoin",
             "Rate10": 20.0,
@@ -1438,7 +1677,7 @@
         // ---------------------------------------------------------------------------
         // Added in this update
         // ---------------------------------------------------------------------------
-        // KoZ's original rows are all above this line and are untouched. The rows below
+        // KoZ's original rows are all above this line. The rows below
         // cover the Pals that arrived with Palworld 1.0 on 2026-07-10, after his last
         // update on 2025-12-18.
         //
