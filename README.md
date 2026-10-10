@@ -4,15 +4,25 @@
 
 
 <p align="center">
-  This is a simple update to <a href=https://steamcommunity.com/sharedfiles/filedetails/?id=3626214974>KoZ' Pals Drop Dog Coins</a> Mod. Workshop ID `3626214974`.
+  This is a simple update to <a href=https://steamcommunity.com/sharedfiles/filedetails/?id=3626214974>KoZ's Pals Drop Dog Coins</a> Mod. Workshop ID `3626214974`.
 </p>
 
 <p align="center">
   All pals will now drop dog coins! Wild pals have a 20% chance to drop Dog Coins. Bosses have a 100% chance to drop them.
-  His original mod still works however, KoZ's mod was last updated **2025-12-18**, before Palworld 1.0 launched on 2026-07-10, all I've done was include the new Pals so the mod is a bit more up to date with the latest version.
+</p>
+
+<p align="center">
+  KoZ's original mod still works however, the mod was last updated in December 2025, before Palworld 1.0 launched in July 2026. All I've done was include the new Pals so the mod is a bit more up to date with the latest version.
+</p>
+
+<p align="center">
   I use this mod regularly, so I'll try to keep it updated as much as possible. If you come across any issues or bugs, please let me know so I can try to fix them.
+</p>
+
+<p align="center">
   If KoZ requests me to remove this mod, I will oblige by his wishes.
 </p>
+
 
 <p align="center">
   Made with love for the community! Thank you to everyone who was
